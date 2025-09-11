@@ -9,4 +9,5 @@ return {
   -- import/override with your plugins folder
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.color.transparent-nvim" },
+  { import = "astrocommunity.colorscheme.vim-nightfly-colors" },
 }
