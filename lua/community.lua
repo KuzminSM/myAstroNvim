@@ -8,6 +8,7 @@ return {
   { import = "astrocommunity.pack.lua" },
   -- import/override with your plugins folder
   { import = "astrocommunity.pack.python" },
+  { import = "astrocommunity.pack.html-css" },
   { import = "astrocommunity.color.transparent-nvim" },
   { import = "astrocommunity.colorscheme.vim-nightfly-colors" },
 }
