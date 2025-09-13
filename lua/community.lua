@@ -7,8 +7,9 @@ return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.pack.lua" },
   -- import/override with your plugins folder
+  { import = "astrocommunity.pack.angular" },
   { import = "astrocommunity.pack.python" },
-  { import = "astrocommunity.pack.html-css" },
+  { import = "astrocommunity.bars-and-lines.dropbar-nvim" },
   { import = "astrocommunity.color.transparent-nvim" },
   { import = "astrocommunity.colorscheme.vim-nightfly-colors" },
 }
